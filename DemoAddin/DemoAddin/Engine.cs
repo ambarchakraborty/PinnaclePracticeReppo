@@ -243,7 +243,7 @@ namespace DemoAddin
                 }
 
             });
-            TaskDialog.Show("Instruction", "Process Complete........");
+            TaskDialog.Show("Instruction", "Process Complete........#############");
         }
     }
 
